@@ -1,0 +1,348 @@
+[
+  {
+    "numero": 1,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "Para estudiar un “circuito” formado por tubos que conducen agua, se puede hacer una analogía con un circuito eléctrico como se sugiere en la figura, donde una bomba equivalente a una fuente, una resistencia a una región estrecha, un voltímetro a un manómetro y un swich a una llave de paso. Aplicando la analogía a los siguientes circuitos de agua, se concluye que aquel en el cual la presión en el punto B es menor, es",
+    "opciones": {},
+    "imagenes": [
+      "imagenes/image3.png",
+      "imagenes/image4.png"
+    ],
+    "respuesta": "B",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 2,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "Se lanza un haz de partículas, todas con igual velocidad y carga, en una región en donde existe un campo magnético uniforme de magnitud B. El haz se divide en cuatro, cada uno de los cuales describe una semicircunferencia, como se observa en la figura El haz que tiene las partículas más masivas es CONTESTE LAS PREGUNTAS 3 A 5 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Utilizando dos láminas metálicas cargadas se genera un campo eléctrico constante en la región limitada por las placas. Una persona camina dentro de la región con campo llevando una pequeña esfera cargada eléctricamente con -0,1C.",
+    "opciones": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "imagenes": [
+      "imagenes/image5.png",
+      "imagenes/image6.png"
+    ],
+    "respuesta": "D",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 3,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "Que la diferencia de potencial entre las placas sea 100 voltios, significa que",
+    "opciones": {
+      "A": "en cualquier punto entre las placas la energía eléctrica de 1C es 1 Joule",
+      "B": "la energía necesaria para llevar 1C de una placa a la otra es 100J",
+      "C": "la energía asociada a 1C es 100 voltios",
+      "D": "la energía necesaria para llevar 100C de una placa a la otra es 1J"
+    },
+    "imagenes": [],
+    "respuesta": "B",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 4,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "Para hacer trabajo contra la fuerza eléctrica la persona debe caminar en la dirección",
+    "opciones": {
+      "A": "N",
+      "B": "S",
+      "C": "E",
+      "D": "O"
+    },
+    "imagenes": [],
+    "respuesta": "B",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 5,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "El trabajo en contra de la fuerza debido al campo eléctrico, para llevar la esfera cargada desde el punto A hasta el punto B, es",
+    "opciones": {
+      "A": "50J, positivo porque la energía eléctrica de la esfera aumenta cuando se mueve de A a B",
+      "B": "-50J, negativo porque la energía eléctrica de la esfera disminuye cuando se mueve de A a B",
+      "C": "10J, positivo porque la energía eléctrica de la esfera aumenta cuando se mueve de A a B",
+      "D": "-10J, negativo porque la energía eléctrica de la esfera disminuye cuando se mueve de A a B"
+    },
+    "imagenes": [],
+    "respuesta": "C",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 6,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "La potencia disipada por una resistencia se define como el calor disipado en una unidad de tiempo (P.ÎQ/Ît). De las siguientes ecuaciones, la que tiene unidades de potencia es",
+    "opciones": {
+      "A": "P = V / I",
+      "B": "P = V I",
+      "C": "P = I / V",
+      "D": "P = V I2"
+    },
+    "imagenes": [],
+    "respuesta": "B",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 7,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "Las esferas metálicas que se muestran en la figura se cargan con 1C cada una. La balanza se equilibra al situar el contrapeso a una distancia x del eje Se pone una tercera esfera a una distancia 2d por debajo de a esfera A y cargada con -2C. Para equilibrar la balanza se debe 8. Dos esferas (1 y 2) con cargas iguales se encuentran sobre una superficie lisa no conductora y están atadas a un hilo no conductor. La esfera 1 está fija a la superficie. Al cortar el hilo, la gráfica de aceleración contra x de la esfera 2 es 9. Un imán se introduce perpendicular al plano de una espira circular como se ilustra en la figura. Mientras el imán está en movimiento",
+    "opciones": {
+      "A": "el campo magnético en el área delimitada por el alambre, no se altera",
+      "B": "se genera un campo eléctrico paralelo al campo magnético",
+      "C": "el alambre se mueve en la misma dirección del imán",
+      "D": "se genera una corriente eléctrica en el alambre"
+    },
+    "imagenes": [
+      "imagenes/image7.png",
+      "imagenes/image8.png",
+      "imagenes/image9.png",
+      "imagenes/image10.png"
+    ],
+    "respuesta": "C",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 10,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "Se tienen dos barras A y B en contacto, apoyadas sobre soportes aislantes como se muestra en la figura. La barra A es metálica y la B es de vidrio. Ambas se ponen en contacto con una barra cargada C. Después de un momento se retira la barra C. Posteriormente se acercan dos péndulos de esferas conductoras neutras, una en cada extremo de este montaje. La afirmación que mejor describe la posición que adoptarán los péndulos después de retirar la barra C es",
+    "opciones": {
+      "A": "el péndulo próximo a la barra A se aleja al igual que lo hace el otro péndulo de la barra B",
+      "B": "el péndulo próximo a la barra A se acerca al igual que lo hace el otro péndulo a la barra B",
+      "C": "el péndulo próximo a la barra A se acerca a ella y el péndulo próximo a la barra B se mantiene vertical",
+      "D": "el péndulo próximo a la barra A se mantiene vertical y el péndulo próximo a la barra B se acerca"
+    },
+    "imagenes": [],
+    "respuesta": "C",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 11,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "Una resistencia Ro se conecta en paralelo a otra resistencia R, como indica la figura. Si se tiene que la resistencia equivalente entre los puntos a y b igual a Ro /4, se debe cumplir que el valor de R es igual a RESPONDA LAS PREGUNTAS 12 Y 13 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Una carga de +2C se encuentra a 2m, de una carga de -2C, como muestra la figura",
+    "opciones": {},
+    "imagenes": [
+      "imagenes/image11.png",
+      "imagenes/image12.png"
+    ],
+    "respuesta": "A",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 12,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "Si la magnitud de la fuerza eléctrica que una carga ejerce sobre otra es , donde entonces la fuerza que ejerce la carga positiva sobre la negativa es",
+    "opciones": {
+      "A": "9 x 109 N en la dirección positiva del eje X",
+      "B": "9 x 109 N en la dirección negativa del eje X",
+      "C": "1/9 x 109 N en la dirección positiva del eje X",
+      "D": "1/9 x 109 N en la dirección negativa del eje X"
+    },
+    "imagenes": [
+      "imagenes/image13.png",
+      "imagenes/image14.png"
+    ],
+    "respuesta": "B",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 13,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "De las siguientes sugerencias que se dan para duplicar los valores de las fuerzas anteriores, la acertada es RESPONDA LAS PREGUNTAS 14 Y 15 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN A un material se le aplican distintos valores de diferencia de potencial y se mide la corriente que circula a través de él, obteniendo la siguiente gráfica",
+    "opciones": {
+      "A": "duplicar la distancia entre las cargas",
+      "B": "reducir a la mitad la distancia entre las cargas",
+      "C": "duplicar la magnitud de las dos cargas",
+      "D": "duplicar la magnitud de una de las dos cargas"
+    },
+    "imagenes": [
+      "imagenes/image15.png"
+    ],
+    "respuesta": "D",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 14,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "De esto se concluye que la resistencia eléctrica del material",
+    "opciones": {
+      "A": "es independiente del voltaje aplicado (el material es óhmico)",
+      "B": "varía directamente con el voltaje aplicado",
+      "C": "varía inversamente con el voltaje aplicado",
+      "D": "varía cuadráticamente con el voltaje aplicado"
+    },
+    "imagenes": [],
+    "respuesta": "A",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 15,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "Si m es la pendiente de la recta de la gráfica anterior, la resistencia eléctrica del material R es RESPONDA LAS PREGUNTAS 16 A 17 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN La figura muestra dos partículas cargadas (1 y 2) en donde la partícula 1 está fija.",
+    "opciones": {},
+    "imagenes": [
+      "imagenes/image16.png",
+      "imagenes/image17.png"
+    ],
+    "respuesta": "B",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 16,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "En estas condiciones es cierto que",
+    "opciones": {
+      "A": "la fuerza electrostática sobre 2 vale cero, porque la carga neta es cero",
+      "B": "para mantener a 2 en reposo se debe ejercer sobre ella una fuerza de valor en la dirección positiva del eje x",
+      "C": "la distancia d puede variar sin que se modifique la fuerza eléctrica de q sobre -q",
+      "D": "es posible mantener a 2 en reposo ejerciendo sobre ella una fuerza mayor en magnitud a , formando un ángulo  apropiado con el eje x"
+    },
+    "imagenes": [
+      "imagenes/image18.png",
+      "imagenes/image19.png"
+    ],
+    "respuesta": "B",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 17,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "Si sobre la partícula 2 se ejerce una fuerza F paralela al eje X tal que la distancia entre 1 y 2 aumenta linealmente con el tiempo, es cierto que RESPONDA LAS PREGUNTAS 18 A 21 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Una partícula de carga +q se desplaza con velocidad V y penetra en una región de ancho L donde existe un campo eléctrico constante E paralelo al eje X, como muestra la figura (1).",
+    "opciones": {
+      "A": "la fuerza neta sobre 2 es cero en todo instante",
+      "B": "como la interacción eléctrica disminuye, el valor de F aumenta",
+      "C": "el movimiento de 2 es uniformemente acelerado debido a la interacción eléctrica con la partícula 1",
+      "D": "el valor de F permanece constante"
+    },
+    "imagenes": [
+      "imagenes/image20.png"
+    ],
+    "respuesta": "A",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 18,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "La componente de la velocidad de la partícula en el eje Y, mientras atraviesa la región con campo eléctrico",
+    "opciones": {
+      "A": "aumenta linealmente con el tiempo",
+      "B": "disminuye linealmente con el tiempo",
+      "C": "varía proporcionalmente al cuadro del tiempo",
+      "D": "Permanece constante y es igual a V"
+    },
+    "imagenes": [],
+    "respuesta": "D",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 19,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "La trayectoria seguida por la partícula en la región del campo eléctrico, es la mostrada en",
+    "opciones": {},
+    "imagenes": [
+      "imagenes/image21.png"
+    ],
+    "respuesta": "D",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 20,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "El tiempo que tarda la partícula en atravesar la región con campo eléctrico es L/V y su aceleración horizontal vale . El punto en donde la partícula abandona el campo eléctrico tiene como absisa y ordenada x igual a",
+    "opciones": {},
+    "imagenes": [
+      "imagenes/image22.png",
+      "imagenes/image23.png",
+      "imagenes/image24.png"
+    ],
+    "respuesta": "A",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 21,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "Una vez la carga abandona la región del campo eléctrico, su velocidad en el marco de referencia de la figura (1), está mejor representada por el vector mostrado en",
+    "opciones": {},
+    "imagenes": [
+      "imagenes/image25.png",
+      "imagenes/image26.png"
+    ],
+    "respuesta": "B",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  },
+  {
+    "numero": 22,
+    "seccion": "EVENTOS ELECTROMAGNÉTICOS",
+    "seccion_indice": 1,
+    "contexto": "",
+    "pregunta": "Un camarógrafo aficionado filmó el momento en el que se producían dos descargas eléctricas entre tres esferas cargadas sujetas en el aire por hilos no conductores. La figura muestra un esquema aproximado de lo que sucedió, indicando la dirección de la descarga. De lo anterior es correcto afirmar que inmediatamente antes de la descarga, las esferas",
+    "opciones": {
+      "A": "2 y 3 estaban cargadas positivamente",
+      "B": "2 y 1 estaban cargadas positivamente",
+      "C": "3 y 1 estaban cargadas positivamente",
+      "D": "estaban cargadas positivamente"
+    },
+    "imagenes": [],
+    "respuesta": "C",
+    "topico": "Eventos Electromagnéticos",
+    "competencia": null
+  }
+]
