@@ -72,12 +72,12 @@ function iniciarTiempoTotal() {
 function mostrarPregunta() {
   resultadoEl.textContent = "";
   contadorEl.textContent = `Pregunta ${indice + 1} de ${preguntas.length}`;
-  preguntaEl.textContent = preguntas[indice].texto;
+  preguntaEl.textContent = preguntas[indice].pregunta;
 
   const img = document.getElementById("grafico");
 
-  if (preguntas[indice].imagen) {
-    img.src = preguntas[indice].imagen;
+  if (preguntas[indice].imagenes && preguntas[indice].imagenes.length > 0) {
+    img.src = preguntas[indice].imagenes[0];
     img.style.display = "block";
   } else {
     img.style.display = "none";
