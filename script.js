@@ -93,7 +93,11 @@ botones.forEach((boton, i) => {
 
     const letra = letras[i];
 
-    boton.textContent = `${letra}: ${opciones[letra]}`;
+    if (opciones[letra]) {
+        boton.textContent = `${letra}: ${opciones[letra]}`;
+    } else {
+        boton.textContent = "";
+    }
 
 });
 
