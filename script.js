@@ -84,9 +84,18 @@ function mostrarPregunta() {
   }
 
   const botones = document.querySelectorAll(".opciones button");
-  botones.forEach((boton, i) => {
-    boton.textContent = preguntas[indice].opciones[i];
-  });
+
+const opciones = preguntas[indice].opciones;
+
+const letras = ["A", "B", "C", "D"];
+
+botones.forEach((boton, i) => {
+
+    const letra = letras[i];
+
+    boton.textContent = `${letra}: ${opciones[letra]}`;
+
+});
 
   iniciarTemporizador();
 
