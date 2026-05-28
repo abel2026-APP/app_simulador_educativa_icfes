@@ -87,6 +87,7 @@ function mostrarPregunta() {
 
 const opciones = preguntas[indice].opciones;
 
+console.log("Opciones de esta pregunta:", opciones);
 const letras = ["A", "B", "C", "D"];
 
 botones.forEach((boton, i) => {

@@ -5,7 +5,12 @@
     "seccion_indice": 1,
     "contexto": "",
     "pregunta": "Para estudiar un “circuito” formado por tubos que conducen agua, se puede hacer una analogía con un circuito eléctrico como se sugiere en la figura, donde una bomba equivalente a una fuente, una resistencia a una región estrecha, un voltímetro a un manómetro y un swich a una llave de paso. Aplicando la analogía a los siguientes circuitos de agua, se concluye que aquel en el cual la presión en el punto B es menor, es",
-    "opciones": {},
+    "opciones": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
     "imagenes": [
       "imagenes/image3.png",
       "imagenes/image4.png"
@@ -21,10 +26,10 @@
     "contexto": "",
     "pregunta": "Se lanza un haz de partículas, todas con igual velocidad y carga, en una región en donde existe un campo magnético uniforme de magnitud B. El haz se divide en cuatro, cada uno de los cuales describe una semicircunferencia, como se observa en la figura El haz que tiene las partículas más masivas es CONTESTE LAS PREGUNTAS 3 A 5 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Utilizando dos láminas metálicas cargadas se genera un campo eléctrico constante en la región limitada por las placas. Una persona camina dentro de la región con campo llevando una pequeña esfera cargada eléctricamente con -0,1C.",
     "opciones": {
-      "A": "1",
-      "B": "2",
-      "C": "3",
-      "D": "4"
+      "A": "Trayectoria 1",
+      "B": "Trayectoria 2",
+      "C": "Trayectoria 3",
+      "D": "Trayectoria 4"
     },
     "imagenes": [
       "imagenes/image5.png",
@@ -147,7 +152,12 @@
     "seccion_indice": 1,
     "contexto": "",
     "pregunta": "Una resistencia Ro se conecta en paralelo a otra resistencia R, como indica la figura. Si se tiene que la resistencia equivalente entre los puntos a y b igual a Ro /4, se debe cumplir que el valor de R es igual a RESPONDA LAS PREGUNTAS 12 Y 13 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Una carga de +2C se encuentra a 2m, de una carga de -2C, como muestra la figura",
-    "opciones": {},
+    "opciones": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
     "imagenes": [
       "imagenes/image11.png",
       "imagenes/image12.png"
@@ -218,7 +228,12 @@
     "seccion_indice": 1,
     "contexto": "",
     "pregunta": "Si m es la pendiente de la recta de la gráfica anterior, la resistencia eléctrica del material R es RESPONDA LAS PREGUNTAS 16 A 17 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN La figura muestra dos partículas cargadas (1 y 2) en donde la partícula 1 está fija.",
-    "opciones": {},
+    "opciones": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
     "imagenes": [
       "imagenes/image16.png",
       "imagenes/image17.png"
@@ -275,7 +290,7 @@
     "opciones": {
       "A": "aumenta linealmente con el tiempo",
       "B": "disminuye linealmente con el tiempo",
-      "C": "varía proporcionalmente al cuadro del tiempo",
+      "C": "varía proporcionalmente al cuadrado del tiempo",
       "D": "Permanece constante y es igual a V"
     },
     "imagenes": [],
@@ -289,7 +304,12 @@
     "seccion_indice": 1,
     "contexto": "",
     "pregunta": "La trayectoria seguida por la partícula en la región del campo eléctrico, es la mostrada en",
-    "opciones": {},
+    "opciones": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
     "imagenes": [
       "imagenes/image21.png"
     ],
@@ -303,7 +323,12 @@
     "seccion_indice": 1,
     "contexto": "",
     "pregunta": "El tiempo que tarda la partícula en atravesar la región con campo eléctrico es L/V y su aceleración horizontal vale . El punto en donde la partícula abandona el campo eléctrico tiene como absisa y ordenada x igual a",
-    "opciones": {},
+    "opciones": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
     "imagenes": [
       "imagenes/image22.png",
       "imagenes/image23.png",
@@ -319,7 +344,12 @@
     "seccion_indice": 1,
     "contexto": "",
     "pregunta": "Una vez la carga abandona la región del campo eléctrico, su velocidad en el marco de referencia de la figura (1), está mejor representada por el vector mostrado en",
-    "opciones": {},
+    "opciones": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
     "imagenes": [
       "imagenes/image25.png",
       "imagenes/image26.png"
